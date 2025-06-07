@@ -1,5 +1,4 @@
 # Repositorio
 Este es mi primer repositorio
 
-Alumno: Facu
-Edad: 17
+Alumno: Facu \n Edad: 17
